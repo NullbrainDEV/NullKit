@@ -1,0 +1,12 @@
+{
+    "name": "com.nullbraindev.nullkit",
+    "version": "1.0.1",
+    "displayName": "NullKit",
+    "description": "A modular SDK for modding VR physics-based games like Bonelab and Boneworks.",
+    "unity": "2020.3.36f1",
+    "author": {
+      "name": "Nullbrain",
+      "url": "https://randomsomethings.net"
+    }
+  }
+  
