@@ -1,1 +1,1 @@
-Read the [Null Wiki](https://randomsomethings.net/wikinull) to know how to install Nullkit
+Read the [Null Wiki](https://randomsomethings.net/nullkit) to know how to install Nullkit
